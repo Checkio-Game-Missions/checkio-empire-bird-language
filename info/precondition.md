@@ -1,6 +1,5 @@
 **Precondition:**
 
-```
-Regex input "\A([a-z]+\ ?)+(?&lt;!\ )\Z", phrase)
+A `phrase` satisfies regexp `"\A([a-z]+\ ?)+(<!\ )\Z"`.
+
 A phrase always has the translation.
-```
