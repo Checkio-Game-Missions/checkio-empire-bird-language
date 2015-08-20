@@ -11,3 +11,5 @@ if __name__ == '__main__':
     assert translate("hoooowe yyyooouuu duoooiiine") == "how you doin", "Joey?"
     assert translate("aaa bo cy da eee fe") == "a b c d e f", "Alphabet"
     assert translate("sooooso aaaaaaaaa") == "sos aaa", "Mayday, mayday"
+
+    print("Code's finished? Earn rewards by clicking 'Check' to review your tests!")
