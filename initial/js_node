@@ -15,4 +15,5 @@ if (!global.is_checking) {
     assert.equal(translate("hoooowe yyyooouuu duoooiiine"), "how you doin", "Joey?");
     assert.equal(translate("aaa bo cy da eee fe"), "a b c d e f", "Alphabet");
     assert.equal(translate("sooooso aaaaaaaaa"), "sos aaa", "Mayday, mayday");
+    console.log("Earn cool rewards by using the 'Check' button!");
 }
